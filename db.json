@@ -1,64 +1,84 @@
-[{
-  "name": {
-    "last": "Klein",
-    "first": "Workman"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f2771d8fa37232f9d5"
-}, {
-  "name": {
-    "last": "Meadows",
-    "first": "Newman"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f2bd3406962719ecc7"
-}, {
-  "name": {
-    "last": "Bradford",
-    "first": "Brianna"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f26ee002f0c6fdde04"
-}, {
-  "name": {
-    "last": "Boyle",
-    "first": "Greer"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f26edc83f4df590b12"
-}, {
-  "name": {
-    "last": "Roberson",
-    "first": "Callahan"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f2be2622863cc50c71"
-}, {
-  "name": {
-    "last": "Salinas",
-    "first": "Edna"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f2e844d3f727a75995"
-}, {
-  "name": {
-    "last": "Craft",
-    "first": "Felecia"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f21a4a6fa96227f5b9"
-}, {
-  "name": {
-    "last": "Dunlap",
-    "first": "Small"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f2a054fae15fc001b4"
-}, {
-  "name": {
-    "last": "Pace",
-    "first": "Lila"
-  },
-  "picture": "http://placehold.it/32x32",
-  "_id": "59fe72f24009aa5253f4a883"
-}]
+{
+  "users": [
+    {
+      "name": {
+        "last": "Franks",
+        "first": "Nona"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769d0321a2846485a2cd"
+    },
+    {
+      "name": {
+        "last": "Walker",
+        "first": "Beasley"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769ddba3a0f33d27ae7f"
+    },
+    {
+      "name": {
+        "last": "Pratt",
+        "first": "Regina"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769d35a59b8130e771bc"
+    },
+    {
+      "name": {
+        "last": "Fry",
+        "first": "Donovan"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769d51305c0aac88fd5f"
+    },
+    {
+      "name": {
+        "last": "Small",
+        "first": "Munoz"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769d25b357c07c1b434f"
+    },
+    {
+      "name": {
+        "last": "Murray",
+        "first": "Watkins"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769dba1e5e27c3c4cbdd"
+    },
+    {
+      "name": {
+        "last": "Olson",
+        "first": "Yates"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769d13e481753a90c2ce"
+    },
+    {
+      "name": {
+        "last": "Ortiz",
+        "first": "Clay"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769dbf5b5edf5c78f096"
+    },
+    {
+      "name": {
+        "last": "Compton",
+        "first": "Cardenas"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769dbe1d1f4666112458"
+    },
+    {
+      "name": {
+        "last": "Montoya",
+        "first": "Blanca"
+      },
+      "picture": "http://placehold.it/32x32",
+      "_id": "59fe769db72804a00f665da5"
+    }
+  ]
+}
