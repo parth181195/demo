@@ -1,14 +1,64 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+  "name": {
+    "last": "Klein",
+    "first": "Workman"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f2771d8fa37232f9d5"
+}, {
+  "name": {
+    "last": "Meadows",
+    "first": "Newman"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f2bd3406962719ecc7"
+}, {
+  "name": {
+    "last": "Bradford",
+    "first": "Brianna"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f26ee002f0c6fdde04"
+}, {
+  "name": {
+    "last": "Boyle",
+    "first": "Greer"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f26edc83f4df590b12"
+}, {
+  "name": {
+    "last": "Roberson",
+    "first": "Callahan"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f2be2622863cc50c71"
+}, {
+  "name": {
+    "last": "Salinas",
+    "first": "Edna"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f2e844d3f727a75995"
+}, {
+  "name": {
+    "last": "Craft",
+    "first": "Felecia"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f21a4a6fa96227f5b9"
+}, {
+  "name": {
+    "last": "Dunlap",
+    "first": "Small"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f2a054fae15fc001b4"
+}, {
+  "name": {
+    "last": "Pace",
+    "first": "Lila"
+  },
+  "picture": "http://placehold.it/32x32",
+  "_id": "59fe72f24009aa5253f4a883"
+}]
